@@ -55,6 +55,9 @@ Improved ability to extract actionable insights from large datasets.
 For any queries or collaboration opportunities, feel free to reach out:
 
 Name: Shashank Tiwari
-Linkdin:https://www.linkedin.com/in/sshankt/
+
+Linkedin:https://www.linkedin.com/in/sshankt/
+
 Visit my Website: https://sshankt.github.io/
+
 Email: shashank.corpconnect@gmail.com
